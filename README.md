@@ -19,7 +19,7 @@ This repository is a hands-on playbook to learn and practice front-end system de
 - Case studies (news feed, chat, e-commerce) showing end-to-end choices
 
 ## Start here
-- Read the RADIO+ framework: `docs/RADIO.md`
+- Read the RADIO+ framework: [docs/RADIO.md](docs/RADIO.md)
 - Browse the topic guides: `systems/`
 - Explore component patterns: `components/`
 - See end-to-end case studies: `case-studies/`

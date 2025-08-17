@@ -34,4 +34,4 @@ Design for failure: retries, timeouts, circuit breakers, fallbacks.
 | Idempotency keys | Prevents duplicates on retries          | Requires backend support              | Mutations under retry |
 
 ## Sources
-- More links: `docs/SOURCES.md`
+- More links: [docs/SOURCES.md](../../docs/SOURCES.md)

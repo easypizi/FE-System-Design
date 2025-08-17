@@ -34,4 +34,4 @@ Tokens, theming, and composable component APIs (headless-first, accessible by de
 | Distribution   | App-local library  | Simplicity                          | Duplication risk                 | Single app team |
 
 ## Sources
-- More links: `docs/SOURCES.md`
+- More links: [docs/SOURCES.md](../../docs/SOURCES.md)

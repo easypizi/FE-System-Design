@@ -32,4 +32,4 @@ Choose the lightest tool that fits: local component state, lightweight global st
 | Cache shape  | Normalized           | Efficient updates, dedupe          | Complexity                        | Large, relational data |
 
 ## Sources
-- More links: `docs/SOURCES.md`
+- More links: [docs/SOURCES.md](../../docs/SOURCES.md)

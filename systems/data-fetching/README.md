@@ -49,4 +49,4 @@ sequenceDiagram
 | Realtime     | SSE                | Simple server push            | Downstream-only                 | Broadcast/feed |
 
 ## Sources
-- More links: `docs/SOURCES.md`
+- More links: [docs/SOURCES.md](../../docs/SOURCES.md)

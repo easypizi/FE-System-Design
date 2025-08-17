@@ -33,4 +33,4 @@ Build inclusive interfaces with proper semantics and localization.
 | Messages  | ICU format             | Plurals, genders, interpolation      | Heavier tooling                    | Rich copy needs |
 
 ## Sources
-- More links: `docs/SOURCES.md`
+- More links: [docs/SOURCES.md](../../docs/SOURCES.md)

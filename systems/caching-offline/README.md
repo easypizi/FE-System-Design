@@ -41,4 +41,4 @@ flowchart TD
 | Precache SW   | Instant load for core shell           | Update complexities               | App shell PWA |
 
 ## Sources
-- More links: `docs/SOURCES.md`
+- More links: [docs/SOURCES.md](../../docs/SOURCES.md)

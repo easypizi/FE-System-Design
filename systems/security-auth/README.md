@@ -43,4 +43,4 @@ sequenceDiagram
 | CSRF   | SameSite + token  | Strong protection                  | Needs consistent setup            | Cookie-based auth |
 
 ## Sources
-- More links: `docs/SOURCES.md`
+- More links: [docs/SOURCES.md](../../docs/SOURCES.md)

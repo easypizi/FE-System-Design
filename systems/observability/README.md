@@ -35,4 +35,4 @@ Measure what matters: logs, metrics, traces, and RUM for the front end.
 | Monitoring  | RUM               | Real-world signals                      | Noisy, user privacy considerations    | Ongoing health |
 
 ## Sources
-- More links: `docs/SOURCES.md`
+- More links: [docs/SOURCES.md](../../docs/SOURCES.md)

@@ -43,4 +43,4 @@ flowchart TD
 | Islands   | Less JS, improved INP                         | Architectural overhead                        | Large pages with many static parts |
 
 ## Sources
-- More links: `docs/SOURCES.md`
+- More links: [docs/SOURCES.md](../../docs/SOURCES.md)

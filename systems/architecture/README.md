@@ -31,4 +31,4 @@ Choose composition boundaries carefully; prefer simplicity until scale demands o
 | BFF               | Tailored APIs, less overfetching      | Extra service to maintain              | Multiple clients with different needs |
 
 ## Sources
-- More links: `docs/SOURCES.md`
+- More links: [docs/SOURCES.md](../../docs/SOURCES.md)

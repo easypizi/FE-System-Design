@@ -32,4 +32,4 @@ Optimize for LCP, INP, CLS; manage code size, images, fonts.
 | Fonts    | Self-host + subset | Control + performance              | Setup complexity             | Custom typography |
 
 ## Sources
-- More links: `docs/SOURCES.md`
+- More links: [docs/SOURCES.md](../../docs/SOURCES.md)

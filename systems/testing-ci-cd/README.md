@@ -34,4 +34,4 @@ Adopt a pragmatic test pyramid and enforce budgets in CI.
 | CI        | Parallelization        | Faster pipelines                    | Infra resource limits              | Extensive suites |
 
 ## Sources
-- More links: `docs/SOURCES.md`
+- More links: [docs/SOURCES.md](../../docs/SOURCES.md)
