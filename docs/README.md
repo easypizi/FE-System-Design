@@ -38,6 +38,7 @@ graph TD
 - Contributing: [`CONTRIBUTING.md`](./CONTRIBUTING.md)
 - Sources: [`SOURCES.md`](./SOURCES.md)
 - Interview Guide: [`INTERVIEW_GUIDE.md`](./INTERVIEW_GUIDE.md)
+- Decision Tables: [`DECISION_TABLES.md`](./DECISION_TABLES.md)
 - Case Study: Video Call — `../case-studies/video-call/README.md`
 - Case Study: Kanban — `../case-studies/kanban/README.md`
 

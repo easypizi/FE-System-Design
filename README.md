@@ -1,5 +1,7 @@
 # Front-End System Design Playbook (React + Vite)
 
+[![Docs](https://img.shields.io/badge/docs-live-0ea5e9)](https://easypizi.github.io/FE-System-Design/)
+
 This repository is a hands-on playbook to learn and practice front-end system design. It focuses on React with Vite for client-side development and references SSR options where appropriate. All materials are in English. Code snippets are illustrative and may not be runnable out of the box.
 
 ## What you will find
