@@ -2,6 +2,12 @@
 
 Measure what matters: logs, metrics, traces, and RUM for the front end.
 
+## Terms (see Glossary)
+- Real User Monitoring (RUM)
+- Service Level Objective (SLO)
+- Traces, logs, metrics
+See: [Glossary](../../docs/GLOSSARY.md)
+
 ## RADIO+
 - Requirements: SLOs, alert thresholds, sampling budget
 - API/Data: event schemas, PII handling, batching

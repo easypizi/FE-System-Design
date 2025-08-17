@@ -2,6 +2,12 @@
 
 Optimize for LCP, INP, CLS; manage code size, images, fonts.
 
+## Terms (see Glossary)
+- Largest Contentful Paint (LCP)
+- Interaction to Next Paint (INP)
+- Cumulative Layout Shift (CLS)
+See: [Glossary](../../docs/GLOSSARY.md)
+
 ## RADIO+
 - Requirements: performance budgets, device/network targets
 - API/Data: payload size, compression, streaming

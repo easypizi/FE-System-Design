@@ -2,6 +2,11 @@
 
 Choose composition boundaries carefully; prefer simplicity until scale demands otherwise.
 
+## Terms (see Glossary)
+- Microfrontends (MFE), Module Federation
+- Backend for Frontend (BFF)
+See: [Glossary](../../docs/GLOSSARY.md)
+
 ## RADIO+
 - Requirements: team topology, deployment independence, shared runtime
 - API/Data: BFF contracts, versioning, cross-app navigation

@@ -2,6 +2,11 @@
 
 Choose the lightest tool that fits: local component state, lightweight global stores, and dedicated server state libraries.
 
+## Terms (see Glossary)
+- Server state vs UI state
+- Normalization, selectors
+See: [Glossary](../../docs/GLOSSARY.md)
+
 ## RADIO+
 - Requirements: scope of state, constraints (persistence, offline), team familiarity
 - API/Data: normalization, selectors, stale time, consistency

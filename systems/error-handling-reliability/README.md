@@ -2,6 +2,12 @@
 
 Design for failure: retries, timeouts, circuit breakers, fallbacks.
 
+## Terms (see Glossary)
+- Exponential backoff with jitter
+- Circuit breaker (closed/open/half-open)
+- Idempotency key
+See: [Glossary](../../docs/GLOSSARY.md)
+
 ## RADIO+
 - Requirements: SLOs for success rate, acceptable latency
 - API/Data: error taxonomy; idempotent endpoints

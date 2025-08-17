@@ -2,6 +2,11 @@
 
 Adopt a pragmatic test pyramid and enforce budgets in CI.
 
+## Terms (see Glossary)
+- End-to-end (E2E), contract tests
+- Continuous Integration/Continuous Delivery (CI/CD)
+See: [Glossary](../../docs/GLOSSARY.md)
+
 ## RADIO+
 - Requirements: coverage goals, acceptance criteria, environments
 - API/Data: contract tests for API schemas and errors

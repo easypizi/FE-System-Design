@@ -2,6 +2,13 @@
 
 Threat model your UI; prevent XSS/CSRF; choose OAuth/OIDC/PKCE flows.
 
+## Terms (see Glossary)
+- Cross-Site Scripting (XSS)
+- Cross-Site Request Forgery (CSRF)
+- OAuth 2.0 / OpenID Connect (OIDC) / Proof Key for Code Exchange (PKCE)
+- Content Security Policy (CSP)
+See: [Glossary](../../docs/GLOSSARY.md)
+
 ## RADIO+
 - Requirements: auth strength, session model, scopes/roles
 - API/Data: tokens, rotation, storage, CSRF protection

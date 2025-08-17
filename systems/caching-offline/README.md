@@ -2,6 +2,12 @@
 
 HTTP caching, client caches, and Service Worker strategies for resilience and speed.
 
+## Terms (see Glossary)
+- Service Worker (SW)
+- Stale-While-Revalidate (SWR)
+- Cache-Control, ETag
+See: [Glossary](../../docs/GLOSSARY.md)
+
 ## RADIO+
 - Requirements: freshness vs consistency, offline expectations, storage budgets
 - API/Data: cacheability (Cache-Control, ETag), invalidation, versioning

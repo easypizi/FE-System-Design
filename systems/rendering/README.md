@@ -2,6 +2,14 @@
 
 Use this guide to choose between CSR, SSR, SSG, ISR, and streaming. Vite powers client builds; use a compatible SSR framework (e.g., Next.js or Vite SSR setups) where needed.
 
+## Terms (see Glossary)
+- Client-Side Rendering (CSR)
+- Server-Side Rendering (SSR)
+- Static Site Generation (SSG)
+- Incremental Static Regeneration (ISR)
+- Content Delivery Network (CDN)
+See: [Glossary](../../docs/GLOSSARY.md)
+
 ## RADIO+
 - Requirements: SEO, personalization, TTFB vs interactivity, cacheability
 - API/Data: data shape at render time vs client time; hydration payload size

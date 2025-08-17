@@ -2,6 +2,11 @@
 
 Tokens, theming, and composable component APIs (headless-first, accessible by default).
 
+## Terms (see Glossary)
+- Design tokens, theming via CSS variables
+- Accessible Rich Internet Applications (ARIA)
+See: [Glossary](../../docs/GLOSSARY.md)
+
 ## RADIO+
 - Requirements: brand themes, density, dark mode, platforms
 - API/Data: tokens, semantic colors/typography/spacing

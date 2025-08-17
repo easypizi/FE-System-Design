@@ -2,6 +2,11 @@
 
 Build inclusive interfaces with proper semantics and localization.
 
+## Terms (see Glossary)
+- Accessibility (a11y), WCAG
+- Internationalization/Localization (i18n/l10n), Right-to-left (RTL)
+See: [Glossary](../../docs/GLOSSARY.md)
+
 ## RADIO+
 - Requirements: a11y baseline (WCAG), locales, RTL support
 - API/Data: content sources, translation keys, number/date formats
