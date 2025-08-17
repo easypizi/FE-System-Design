@@ -29,7 +29,7 @@ flowchart TD
 - Storage quotas and eviction handling
 
 ## Examples
-- `examples/sw-staleWhileRevalidate.ts`
+- [examples/sw-staleWhileRevalidate.ts](./examples/sw-staleWhileRevalidate.ts)
 
 ## Trade-offs
 

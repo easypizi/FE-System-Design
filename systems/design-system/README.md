@@ -19,8 +19,8 @@ Tokens, theming, and composable component APIs (headless-first, accessible by de
 - Visual and a11y tests in CI
 
 ## Examples
-- `examples/Button.tsx`
-- `examples/Dropdown.tsx`
+- [examples/Button.tsx](./examples/Button.tsx)
+- [examples/Dropdown.tsx](./examples/Dropdown.tsx)
 
 ## Trade-offs
 

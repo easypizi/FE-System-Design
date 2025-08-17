@@ -11,6 +11,6 @@ End-to-end design of a social feed with pagination and realtime updates.
 - Observability/Testing: RUM on scroll, error rates, e2e smoke
 
 ## Examples
-- `examples/feed-arch.md`
-- `examples/client-store.ts`
-- `examples/pagination.ts`
+- [examples/feed-arch.md](./examples/feed-arch.md)
+- [examples/client-store.ts](./examples/client-store.ts)
+- [examples/pagination.ts](./examples/pagination.ts)

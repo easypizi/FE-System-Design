@@ -19,7 +19,7 @@ Choose composition boundaries carefully; prefer simplicity until scale demands o
 - Cross-app error handling and logging
 
 ## Examples
-- `examples/module-federation.ts`
+- [examples/module-federation.ts](./examples/module-federation.ts)
 
 ## Trade-offs
 

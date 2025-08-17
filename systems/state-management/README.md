@@ -19,8 +19,8 @@ Choose the lightest tool that fits: local component state, lightweight global st
 - Provide testing utilities for stores
 
 ## Examples
-- `examples/store-zustand.ts`
-- `examples/server-state-query.ts`
+- [examples/store-zustand.ts](./examples/store-zustand.ts)
+- [examples/server-state-query.ts](./examples/server-state-query.ts)
 
 ## Trade-offs
 

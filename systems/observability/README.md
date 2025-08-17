@@ -19,8 +19,8 @@ Measure what matters: logs, metrics, traces, and RUM for the front end.
 - Privacy review for telemetry data
 
 ## Examples
-- `examples/instrument-web-vitals.ts`
-- `examples/feature-flags.ts`
+- [examples/instrument-web-vitals.ts](./examples/instrument-web-vitals.ts)
+- [examples/feature-flags.ts](./examples/feature-flags.ts)
 
 ## Trade-offs
 

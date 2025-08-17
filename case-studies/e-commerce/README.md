@@ -11,5 +11,5 @@ Product listing, PDP, cart, and checkout with performance and reliability.
 - Observability/Testing: CWV, conversion, contract/e2e tests
 
 ## Examples
-- `examples/checkout-flow.md`
-- `examples/performance.md`
+- [examples/checkout-flow.md](./examples/checkout-flow.md)
+- [examples/performance.md](./examples/performance.md)

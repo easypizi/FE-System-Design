@@ -11,5 +11,5 @@ Designing a Trello-like board with offline sync and conflict handling.
 - Observability/Testing: sync success rate, offline scenarios, e2e
 
 ## Examples
-- `examples/offline-queue.ts`
-- `examples/optimistic-move.ts`
+- [examples/offline-queue.ts](./examples/offline-queue.ts)
+- [examples/optimistic-move.ts](./examples/optimistic-move.ts)

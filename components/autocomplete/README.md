@@ -9,4 +9,4 @@ Async search with debouncing, cancellation, and accessibility.
 - Keyboard navigation and active-descendant management
 
 ## Example
-- `examples/Autocomplete.tsx`
+- [examples/Autocomplete.tsx](./examples/Autocomplete.tsx)

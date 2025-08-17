@@ -19,8 +19,8 @@ Adopt a pragmatic test pyramid and enforce budgets in CI.
 - Flake detection and quarantine
 
 ## Examples
-- `examples/contract-test.md`
-- `examples/e2e-smoke.md`
+- [examples/contract-test.md](./examples/contract-test.md)
+- [examples/e2e-smoke.md](./examples/e2e-smoke.md)
 
 ## Trade-offs
 

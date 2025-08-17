@@ -11,5 +11,5 @@ Local-first collaboration with CRDTs or OT, presence, and conflict resolution.
 - Observability/Testing: correctness tests, latency metrics
 
 ## Examples
-- `examples/crdt-basics.ts`
-- `examples/presence-channel.ts`
+- [examples/crdt-basics.ts](./examples/crdt-basics.ts)
+- [examples/presence-channel.ts](./examples/presence-channel.ts)

@@ -34,8 +34,8 @@ sequenceDiagram
 - Validate inputs/outputs (Zod/TS)
 
 ## Examples
-- `examples/usePaginatedFeed.ts`
-- `examples/typeahead.ts`
+- [examples/usePaginatedFeed.ts](./examples/usePaginatedFeed.ts)
+- [examples/typeahead.ts](./examples/typeahead.ts)
 
 ## Trade-offs
 

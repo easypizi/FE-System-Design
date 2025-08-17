@@ -30,8 +30,8 @@ sequenceDiagram
 - Security testing in CI
 
 ## Examples
-- `examples/auth-oidc-pkce.ts`
-- `examples/csrf-double-submit.ts`
+- [examples/auth-oidc-pkce.ts](./examples/auth-oidc-pkce.ts)
+- [examples/csrf-double-submit.ts](./examples/csrf-double-submit.ts)
 
 ## Trade-offs
 

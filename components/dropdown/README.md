@@ -9,4 +9,4 @@ Headless dropdown with keyboard navigation and ARIA semantics.
 - Manage focus and typeahead where applicable
 
 ## Example
-- `examples/Dropdown.tsx`
+- [examples/Dropdown.tsx](./examples/Dropdown.tsx)

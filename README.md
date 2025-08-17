@@ -4,14 +4,6 @@
 
 This repository is a hands-on playbook to learn and practice front-end system design. It focuses on React with Vite for client-side development and references SSR options where appropriate. All materials are in English. Code snippets are illustrative and may not be runnable out of the box.
 
-## On this page
-- [What you will find](#what-you-will-find)
-- [Start here](#start-here)
-- [Quick links](#quick-links)
-- [Roadmap](#roadmap)
-- [Contributing](#contributing)
-- Shortcuts: [`docs/RADIO.md`](docs/RADIO.md) · [`docs/RADIO-TEMPLATE.md`](docs/RADIO-TEMPLATE.md) · [`docs/INTERVIEW_GUIDE.md`](docs/INTERVIEW_GUIDE.md) · [`docs/DECISION_TABLES.md`](docs/DECISION_TABLES.md) · [`docs/SOURCES.md`](docs/SOURCES.md)
-
 ## What you will find
 - A lightweight framework for structuring system design answers: RADIO+ (Requirements → API/Data → Interface → Operations → Risks/Trade-offs → Observability/Testing → Checklists)
 - Modular guides with diagrams, decision trees, and checklists

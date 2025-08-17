@@ -11,5 +11,5 @@ Designing a web chat with presence, typing indicators, and delivery guarantees.
 - Observability/Testing: delivery rate, latency, chaos/disconnect tests
 
 ## Examples
-- `examples/websocket-client.ts`
-- `examples/optimistic-ui.ts`
+- [examples/websocket-client.ts](./examples/websocket-client.ts)
+- [examples/optimistic-ui.ts](./examples/optimistic-ui.ts)

@@ -30,7 +30,7 @@ flowchart TD
 - Measure CWV; set budgets
 
 ## Examples
-- `examples/next-streaming.tsx` — streaming SSR route component (conceptual)
+- [examples/next-streaming.tsx](./examples/next-streaming.tsx) — streaming SSR route component (conceptual)
 
 ## Trade-offs
 

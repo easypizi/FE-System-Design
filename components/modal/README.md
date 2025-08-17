@@ -9,4 +9,4 @@ Accessible modal dialog with keyboard and focus considerations.
 - Announce title with `aria-labelledby` or `aria-label`
 
 ## Example
-- `examples/Modal.tsx`
+- [examples/Modal.tsx](./examples/Modal.tsx)

@@ -19,8 +19,8 @@ Optimize for LCP, INP, CLS; manage code size, images, fonts.
 - Track CWV in RUM; gate CI on budgets
 
 ## Examples
-- `examples/route-level-splitting.tsx`
-- `examples/responsive-images.tsx`
+- [examples/route-level-splitting.tsx](./examples/route-level-splitting.tsx)
+- [examples/responsive-images.tsx](./examples/responsive-images.tsx)
 
 ## Trade-offs
 

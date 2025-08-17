@@ -19,8 +19,8 @@ Design for failure: retries, timeouts, circuit breakers, fallbacks.
 - User-visible fallback and recovery
 
 ## Examples
-- `examples/fetch-with-retry.ts`
-- `examples/circuit-breaker.ts`
+- [examples/fetch-with-retry.ts](./examples/fetch-with-retry.ts)
+- [examples/circuit-breaker.ts](./examples/circuit-breaker.ts)
 
 ## Trade-offs
 

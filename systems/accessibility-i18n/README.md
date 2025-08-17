@@ -19,8 +19,8 @@ Build inclusive interfaces with proper semantics and localization.
 - RTL layout verification
 
 ## Examples
-- `examples/accessible-modal.tsx`
-- `examples/i18n-locale-switch.tsx`
+- [examples/accessible-modal.tsx](./examples/accessible-modal.tsx)
+- [examples/i18n-locale-switch.tsx](./examples/i18n-locale-switch.tsx)
 
 ## Trade-offs
 

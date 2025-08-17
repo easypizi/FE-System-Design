@@ -11,8 +11,8 @@ Designing a browser-based video conference: capture, encode, transport, and rend
 - Observability/Testing: media quality metrics, reconnect tests
 
 ## Examples
-- `examples/getUserMedia.ts`
-- `examples/webrtc-offer-answer.ts`
+- [examples/getUserMedia.ts](./examples/getUserMedia.ts)
+- [examples/webrtc-offer-answer.ts](./examples/webrtc-offer-answer.ts)
 
 ## Checklist
 - Permissions UX for camera/mic/screen
