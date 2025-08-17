@@ -1,0 +1,25 @@
+# Global rules for this repository (Cursor)
+
+## Language & Style
+- All prose and code comments must be in English.
+- Prefer TypeScript for examples; keep snippets self-contained and readable.
+- Use `const` for functions and handlers (e.g., `const handleClick = () => {}`).
+- Favor early returns and clear guard clauses.
+- Accessibility first: include `role`, `aria-*`, `tabIndex`, and `onKeyDown` where relevant.
+- If JSX is used, style exclusively with Tailwind CSS utility classes.
+
+## Structure
+- Organize content under `systems/`, `components/`, and `case-studies/`.
+- Keep examples in `examples/` subfolders near their guides.
+- Use checklists and decision tables for trade-offs.
+- Include Mermaid diagrams for key flows and decision trees.
+
+## Framework
+- Follow RADIO+ in guides: Requirements → API/Data → Interface → Operations → Risks/Trade-offs → Observability/Testing → Checklists.
+
+## Quality
+- Avoid TODOs; provide minimal but complete examples.
+- Keep files small and focused; link out to related sections.
+- Prefer framework-agnostic explanations; add React/Vite/SSR notes where needed.
+
+

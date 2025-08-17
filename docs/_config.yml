@@ -1,0 +1,7 @@
+title: Front-End System Design Showcase
+description: Guides, checklists, and examples for front-end system design
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+# GitHub Pages will serve Markdown from this folder
+markdown: kramdown
