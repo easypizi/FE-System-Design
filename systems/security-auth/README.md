@@ -11,6 +11,17 @@ Threat model your UI; prevent XSS/CSRF; choose OAuth/OIDC/PKCE flows.
 - Observability/Testing: security headers, SAST/DAST, dependency scanning
 - Checklist: below
 
+## OIDC PKCE Flow
+```mermaid
+sequenceDiagram
+  participant B as Browser (SPA)
+  participant AS as Auth Server
+  B->>AS: /authorize (code + code_challenge)
+  AS-->>B: redirect with code
+  B->>AS: /token (code + code_verifier)
+  AS-->>B: tokens (access/refresh)
+```
+
 ## Checklist
 - Use PKCE for public clients; avoid storing tokens in localStorage
 - CSRF defense (same-site cookies + double submit or token)
@@ -21,3 +32,12 @@ Threat model your UI; prevent XSS/CSRF; choose OAuth/OIDC/PKCE flows.
 ## Examples
 - `examples/auth-oidc-pkce.ts`
 - `examples/csrf-double-submit.ts`
+
+## Trade-offs
+
+| Topic  | Option            | Pros                               | Cons                              | Prefer when |
+|--------|-------------------|------------------------------------|-----------------------------------|-------------|
+| Tokens | Cookies (httponly)| Protected from JS (XSS)            | CSRF protections required         | Browser apps with backend |
+| Tokens | Local/sessionStor.| Simpler fetch usage                | Exposed to XSS                    | Low-risk internal tools |
+| OAuth  | PKCE + Auth Code  | Best practice for public SPA       | More steps and server integration | Public clients |
+| CSRF   | SameSite + token  | Strong protection                  | Needs consistent setup            | Cookie-based auth |

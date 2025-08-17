@@ -35,6 +35,8 @@ graph TD
 - Framework: [`RADIO.md`](./RADIO.md)
 - Glossary: [`GLOSSARY.md`](./GLOSSARY.md)
 - Contributing: [`CONTRIBUTING.md`](./CONTRIBUTING.md)
+ - Case Study: Video Call — `../case-studies/video-call/README.md`
+ - Case Study: Kanban — `../case-studies/kanban/README.md`
 
 ## Attribution
 Inspired by and extends the curated resources in

@@ -21,3 +21,12 @@ Optimize for LCP, INP, CLS; manage code size, images, fonts.
 ## Examples
 - `examples/route-level-splitting.tsx`
 - `examples/responsive-images.tsx`
+
+## Trade-offs
+
+| Topic    | Option             | Pros                               | Cons                         | Prefer when |
+|----------|--------------------|------------------------------------|------------------------------|-------------|
+| Splitting| Route-level        | Big wins with minimal effort       | Overhead per route           | Large apps |
+| Splitting| Component-level    | Fine-grained control               | More complexity              | Heavy components |
+| Images   | Modern formats     | Better compression (AVIF/WebP)     | Compatibility checks         | Media-heavy pages |
+| Fonts    | Self-host + subset | Control + performance              | Setup complexity             | Custom typography |

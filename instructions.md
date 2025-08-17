@@ -13,10 +13,11 @@ This repository is a structured learning resource. Keep content high-signal, sho
 - Use Mermaid inside Markdown fences. Keep diagrams simple and readable.
 - Prefer sequence or flowchart diagrams for data/flow explanation.
 
-## Docs showcase
-- The `docs/` directory serves as the landing area for GitHub Pages.
-- In GitHub settings, enable Pages with source = `main` and folder = `/docs`.
-- Keep `docs/README.md` as the site index; link to topic guides within the repo.
+## Docs showcase (GitHub Pages)
+- Settings → Pages → Source: `Deploy from a branch`
+- Branch: `main`, Folder: `/docs`
+- Ensure `docs/index.md` exists and `_config.yml` sets a theme
+- Wait for Pages to build and publish the site URL
 
 ## Editorial rules
 - All text and comments in English.
