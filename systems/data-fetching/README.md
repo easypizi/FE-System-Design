@@ -47,3 +47,6 @@ sequenceDiagram
 | Transport    | GraphQL            | Precise fields, batching      | Extra gateway/service complexity| Complex shapes |
 | Realtime     | WebSocket          | Bidirectional, low latency    | Connection mgmt                 | Interactive apps |
 | Realtime     | SSE                | Simple server push            | Downstream-only                 | Broadcast/feed |
+
+## Sources
+- More links: `docs/SOURCES.md`

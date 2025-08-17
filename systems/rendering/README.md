@@ -41,3 +41,6 @@ flowchart TD
 | SSG/ISR   | Ultra fast, CDN-friendly                      | Stale risk, rebuild pipeline complexity       | Mostly static with periodic updates |
 | Streaming | Perceived performance improves, progressive UI| Requires framework support, complexity        | Mixed slow/fast sections |
 | Islands   | Less JS, improved INP                         | Architectural overhead                        | Large pages with many static parts |
+
+## Sources
+- More links: `docs/SOURCES.md`

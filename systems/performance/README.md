@@ -30,3 +30,6 @@ Optimize for LCP, INP, CLS; manage code size, images, fonts.
 | Splitting| Component-level    | Fine-grained control               | More complexity              | Heavy components |
 | Images   | Modern formats     | Better compression (AVIF/WebP)     | Compatibility checks         | Media-heavy pages |
 | Fonts    | Self-host + subset | Control + performance              | Setup complexity             | Custom typography |
+
+## Sources
+- More links: `docs/SOURCES.md`

@@ -33,13 +33,15 @@ graph TD
 
 ## Quick Links
 - Framework: [`RADIO.md`](./RADIO.md)
+- Template: [`RADIO-TEMPLATE.md`](./RADIO-TEMPLATE.md)
 - Glossary: [`GLOSSARY.md`](./GLOSSARY.md)
 - Contributing: [`CONTRIBUTING.md`](./CONTRIBUTING.md)
- - Case Study: Video Call — `../case-studies/video-call/README.md`
- - Case Study: Kanban — `../case-studies/kanban/README.md`
+- Sources: [`SOURCES.md`](./SOURCES.md)
+- Interview Guide: [`INTERVIEW_GUIDE.md`](./INTERVIEW_GUIDE.md)
+- Case Study: Video Call — `../case-studies/video-call/README.md`
+- Case Study: Kanban — `../case-studies/kanban/README.md`
 
 ## Attribution
-Inspired by and extends the curated resources in
-[greatfrontend/awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design?tab=readme-ov-file).
+Inspired by multiple public resources, engineering blogs, and web standards documentation.
 
 

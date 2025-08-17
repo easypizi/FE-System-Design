@@ -29,3 +29,6 @@ Choose composition boundaries carefully; prefer simplicity until scale demands o
 | Microfrontends    | Independent deploys, ownership        | Runtime integration complexity         | Many teams, separate lifecycles |
 | Module Federation | Share code at runtime                 | Versioning and compatibility issues    | Need shared UI/runtime across apps |
 | BFF               | Tailored APIs, less overfetching      | Extra service to maintain              | Multiple clients with different needs |
+
+## Sources
+- More links: `docs/SOURCES.md`

@@ -30,3 +30,6 @@ Choose the lightest tool that fits: local component state, lightweight global st
 | Global state | Lightweight store    | Minimal boilerplate                | Risk of overuse                   | Cross-cutting UI state |
 | Server state | Query library        | Caching, invalidation, retries     | Abstraction learning curve        | Data fetching heavy apps |
 | Cache shape  | Normalized           | Efficient updates, dedupe          | Complexity                        | Large, relational data |
+
+## Sources
+- More links: `docs/SOURCES.md`

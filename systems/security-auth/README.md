@@ -41,3 +41,6 @@ sequenceDiagram
 | Tokens | Local/sessionStor.| Simpler fetch usage                | Exposed to XSS                    | Low-risk internal tools |
 | OAuth  | PKCE + Auth Code  | Best practice for public SPA       | More steps and server integration | Public clients |
 | CSRF   | SameSite + token  | Strong protection                  | Needs consistent setup            | Cookie-based auth |
+
+## Sources
+- More links: `docs/SOURCES.md`

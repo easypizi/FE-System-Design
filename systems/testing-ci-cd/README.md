@@ -32,3 +32,6 @@ Adopt a pragmatic test pyramid and enforce budgets in CI.
 | API       | Contract tests         | Early schema break detection        | Requires schema management         | Consumer/provider coupling |
 | Infra     | Ephemeral envs         | Realistic integration               | Cost and setup complexity          | Larger orgs |
 | CI        | Parallelization        | Faster pipelines                    | Infra resource limits              | Extensive suites |
+
+## Sources
+- More links: `docs/SOURCES.md`

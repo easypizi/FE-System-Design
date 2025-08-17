@@ -31,3 +31,6 @@ Build inclusive interfaces with proper semantics and localization.
 | i18n load | Runtime (lazy)         | Smaller initial bundles              | Runtime edge cases/loading states  | Many locales |
 | i18n load | Build-time/SSR         | SEO-friendly, no flash of source     | Build complexity                   | Content pages |
 | Messages  | ICU format             | Plurals, genders, interpolation      | Heavier tooling                    | Rich copy needs |
+
+## Sources
+- More links: `docs/SOURCES.md`

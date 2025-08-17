@@ -32,3 +32,6 @@ Tokens, theming, and composable component APIs (headless-first, accessible by de
 | Theming        | CSS-in-JS          | Conditional styling in JS           | Runtime cost, tooling complexity | Highly dynamic styles |
 | Distribution   | Monorepo packages  | Reuse, versioning                   | Repo complexity                  | Multi-app org |
 | Distribution   | App-local library  | Simplicity                          | Duplication risk                 | Single app team |
+
+## Sources
+- More links: `docs/SOURCES.md`

@@ -32,3 +32,6 @@ Design for failure: retries, timeouts, circuit breakers, fallbacks.
 | Timeouts         | Bounds waiting time                     | Too strict can cause false failures   | All network calls |
 | Fallback UI      | Keeps UX functional                     | Possible inconsistency                | Non-critical widgets |
 | Idempotency keys | Prevents duplicates on retries          | Requires backend support              | Mutations under retry |
+
+## Sources
+- More links: `docs/SOURCES.md`

@@ -39,3 +39,6 @@ flowchart TD
 | Cache-first   | Fast responses, offline-friendly      | Risk of staleness                 | Rarely-changing assets |
 | SWR           | Good UX: fast + behind-the-scenes upd.| Requires revalidation plumbing    | Feeds, dashboards |
 | Precache SW   | Instant load for core shell           | Update complexities               | App shell PWA |
+
+## Sources
+- More links: `docs/SOURCES.md`

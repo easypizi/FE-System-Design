@@ -27,5 +27,4 @@ Welcome! This site mirrors the repository content with a simple, navigable index
 - Collaborative Editor: `case-studies/collaborative-editor/README.md`
 
 ## Attribution
-Inspired by and extends the curated resources in
-[greatfrontend/awesome-front-end-system-design](https://github.com/greatfrontend/awesome-front-end-system-design?tab=readme-ov-file).
+Inspired by multiple public resources, engineering blogs, and web standards documentation.
