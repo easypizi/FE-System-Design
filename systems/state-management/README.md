@@ -21,3 +21,12 @@ Choose the lightest tool that fits: local component state, lightweight global st
 ## Examples
 - `examples/store-zustand.ts`
 - `examples/server-state-query.ts`
+
+## Trade-offs
+
+| Topic        | Option               | Pros                               | Cons                              | Prefer when |
+|--------------|----------------------|------------------------------------|-----------------------------------|-------------|
+| UI state     | Local component      | Simple, co-located                 | Prop drilling if shared           | Localized concerns |
+| Global state | Lightweight store    | Minimal boilerplate                | Risk of overuse                   | Cross-cutting UI state |
+| Server state | Query library        | Caching, invalidation, retries     | Abstraction learning curve        | Data fetching heavy apps |
+| Cache shape  | Normalized           | Efficient updates, dedupe          | Complexity                        | Large, relational data |

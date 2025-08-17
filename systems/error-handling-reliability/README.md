@@ -21,3 +21,14 @@ Design for failure: retries, timeouts, circuit breakers, fallbacks.
 ## Examples
 - `examples/fetch-with-retry.ts`
 - `examples/circuit-breaker.ts`
+
+## Trade-offs
+
+| Strategy         | Pros                                   | Cons                                 | Prefer when |
+|------------------|----------------------------------------|--------------------------------------|-------------|
+| Retry + backoff  | Simple, improves transient failures     | Can amplify load if not bounded       | Idempotent GET/PUT |
+| Hedging          | Reduces tail latency                    | Higher backend load                   | Latency-sensitive reads |
+| Circuit breaker  | Protects systems from cascading failures| Potentially blocks recovery briefly   | Unstable dependencies |
+| Timeouts         | Bounds waiting time                     | Too strict can cause false failures   | All network calls |
+| Fallback UI      | Keeps UX functional                     | Possible inconsistency                | Non-critical widgets |
+| Idempotency keys | Prevents duplicates on retries          | Requires backend support              | Mutations under retry |

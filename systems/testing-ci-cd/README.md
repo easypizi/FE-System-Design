@@ -21,3 +21,14 @@ Adopt a pragmatic test pyramid and enforce budgets in CI.
 ## Examples
 - `examples/contract-test.md`
 - `examples/e2e-smoke.md`
+
+## Trade-offs
+
+| Topic     | Option                 | Pros                               | Cons                               | Prefer when |
+|-----------|------------------------|------------------------------------|------------------------------------|-------------|
+| Scope     | Unit                   | Fast, isolated                      | Limited integration coverage       | Logic-heavy areas |
+| Scope     | Component              | Catches UI state issues             | Slower than unit                   | UI components |
+| Scope     | E2E                    | High confidence                     | Slow, flaky risk                   | Critical flows |
+| API       | Contract tests         | Early schema break detection        | Requires schema management         | Consumer/provider coupling |
+| Infra     | Ephemeral envs         | Realistic integration               | Cost and setup complexity          | Larger orgs |
+| CI        | Parallelization        | Faster pipelines                    | Infra resource limits              | Extensive suites |

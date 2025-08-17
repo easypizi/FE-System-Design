@@ -20,3 +20,12 @@ Choose composition boundaries carefully; prefer simplicity until scale demands o
 
 ## Examples
 - `examples/module-federation.ts`
+
+## Trade-offs
+
+| Option            | Pros                                  | Cons                                  | Prefer when |
+|-------------------|---------------------------------------|---------------------------------------|-------------|
+| Monolith          | Simple DX, easy shared state          | Scaling teams increases coupling       | Small/medium teams |
+| Microfrontends    | Independent deploys, ownership        | Runtime integration complexity         | Many teams, separate lifecycles |
+| Module Federation | Share code at runtime                 | Versioning and compatibility issues    | Need shared UI/runtime across apps |
+| BFF               | Tailored APIs, less overfetching      | Extra service to maintain              | Multiple clients with different needs |
